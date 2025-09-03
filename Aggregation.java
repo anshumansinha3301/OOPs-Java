@@ -6,7 +6,7 @@ class Address
         this.city = city;
         this.state = state;
     }
-}
+}  
 
 class Student
 {
